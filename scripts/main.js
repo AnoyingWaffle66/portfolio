@@ -1,4 +1,12 @@
-console.log("hey there bud.")
+var dadJoke = document.getElementById("dad-joke")
 
-var myBody = document.querySelector("body")
-myBody.classList.add("better-purple")
+// fetch('https://icanhazdadjoke.com/', {
+//     headers: {
+//         Accept: 'application/json'
+//     }
+// }).then(response => {
+//     response.json().then(data => {
+//         var joke = data.joke
+//         dadJoke.textContent = joke
+//     })
+// })
