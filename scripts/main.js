@@ -1,4 +1,4 @@
-var dadJoke = document.getElementById("dad-joke")
+// var dadJoke = document.getElementById("dad-joke")
 
 // fetch('https://icanhazdadjoke.com/', {
 //     headers: {
