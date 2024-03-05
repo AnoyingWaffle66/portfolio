@@ -1,0 +1,23 @@
+#java-logo{
+    width: 200;
+    position: relative;
+    left: 25%;
+}
+
+#gaming-controller{
+    width: 200;
+    position: relative;
+    left: 25%;
+}
+
+#coding-skills{
+    position: absolute;
+    left: 15%;
+    top: 20%;
+}
+
+#other-skills{
+    position: absolute;
+    right: 15%;
+    top: 20%;
+}
