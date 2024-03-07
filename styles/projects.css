@@ -1,0 +1,30 @@
+
+.enigma-container{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+
+.enigma-container img {
+    height: 400px;
+}
+
+.enigma-container p {
+    position: relative;
+    left: 28%;
+}
+
+.game-container{
+    position: absolute;
+    top: 30%;
+    right: 15%;
+}
+
+.game-container img {
+    height: 400px;
+}
+
+.game-container p {
+    position: relative;
+    left: 29%;
+}
